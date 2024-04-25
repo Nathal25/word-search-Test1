@@ -1,2 +1,3 @@
-package com.example.wordsearchtest1;public class Main {
+package com.example.wordsearchtest1;
+public class Main {
 }
